@@ -35,5 +35,19 @@
         android:text="@string/launch_custom_dialog"
         android:onClick="launch" />
 
+    <Button
+        android:id="@+id/time_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/launch_time_picker_dialog"
+        android:onClick="launch" />
+
+    <Button
+        android:id="@+id/date_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/launch_date_picker_dialog"
+        android:onClick="launch" />
+
 
 </LinearLayout>

@@ -31,4 +31,6 @@
     <string name="password">Enter password</string>
     <string name="signin">Sign In</string>
     <string name="launch_custom_dialog">Launch Custom Dialog</string>
+    <string name="launch_time_picker_dialog">Time Picker</string>
+    <string name="launch_date_picker_dialog">Date Picker</string>
 </resources>
